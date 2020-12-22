@@ -1,0 +1,21 @@
+{
+  "culture": "tr",
+  "texts": {
+    "ManageYourProfile": "Profil yönetimi",
+    "SamplePageMessage": "MessageKit modulünden örnek bir sayfa",
+    "Permission:Message": "Message",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Message": "MenuMessage",
+    "Message": "Message",
+    "MessageToTenantId": "MessageToTenantId",
+    "MessageTitle": "MessageTitle",
+    "MessageBody": "MessageBody",
+    "MessageIsReaded": "MessageIsReaded",
+    "CreateMessage": "CreateMessage",
+    "EditMessage": "EditMessage",
+    "MessageDeletionConfirmationMessage": "Are you sure to delete the message {0}?",
+    "SuccessfullyDeleted": "Successfully deleted"
+  }
+}
