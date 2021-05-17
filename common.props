@@ -2,15 +2,12 @@
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
     <Version>0.1.0</Version>
+    <AbpVersion>4.3.0</AbpVersion>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>LazyAbp Team</Authors>
-    <Description>An abp application module that provides message service.</Description>
-    <PackageIconUrl>https://avatars3.githubusercontent.com/u/26806546?s=128</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/chnix/message</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/chnix/message</RepositoryUrl>
-    <PackageTags>abp module lazyabp messageservice message</PackageTags>
-    <Company>LazyAbp</Company>
+    <PackageProjectUrl>https://github.com/lazyabp/message</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/lazyabp/message</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 

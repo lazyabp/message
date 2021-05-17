@@ -1,0 +1,9 @@
+﻿@page
+@using Microsoft.Extensions.Localization
+@using Lazy.Abp.MessageKit.Localization
+@model Lazy.Abp.MessageKit.Web.Pages.MessageKit.IndexModel
+@inject IStringLocalizer<MessageKitResource> L
+@{
+}
+<h1>MessageKit</h1>
+<p>@L["SamplePageMessage"]</p>
