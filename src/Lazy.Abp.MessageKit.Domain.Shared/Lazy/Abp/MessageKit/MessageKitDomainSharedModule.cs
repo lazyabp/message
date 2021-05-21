@@ -25,7 +25,7 @@ namespace Lazy.Abp.MessageKit
                 options.Resources
                     .Add<MessageKitResource>("en")
                     .AddBaseTypes(typeof(AbpValidationResource))
-                    .AddVirtualJson("/Lazy.Abp/MessageKit/Localization");
+                    .AddVirtualJson("/Lazy.Abp/MessageKit/Localization/MessageKit");
             });
 
             Configure<AbpExceptionLocalizationOptions>(options =>
